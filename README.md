@@ -31,7 +31,7 @@ Model Type: Integer Linear Programming (ILP)
 Decision Variables: Binary variables x[i][j] indicate whether the route goes from location i to j
 Objective Function: Minimize the total distance traveled
 
-#Constraints:
+Constraints:
 
 Each delivery point is visited exactly once
 Return to the warehouse
